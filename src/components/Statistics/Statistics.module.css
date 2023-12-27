@@ -1,0 +1,10 @@
+.feedback__statistics {
+  list-style-type: none;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  padding-bottom: 10px;
+  padding-left: 30px;
+}
+
+.feedback__item:not(:last-child) {
+  margin-bottom: 10px;
+}
